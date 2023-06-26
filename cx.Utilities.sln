@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cx.Utilities", "cx.Utiities\cx.Utilities.csproj", "{6753E3D1-D014-49C8-8624-B37E7B216159}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cx.Utilities", "cx.Utilities\cx.Utilities.csproj", "{6753E3D1-D014-49C8-8624-B37E7B216159}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cx.Mvc.Utilities", "cx.Mvc.Utilities\cx.Mvc.Utilities.csproj", "{3823CD05-97D2-4CB3-9A39-FDF0803D5DDE}"
 EndProject

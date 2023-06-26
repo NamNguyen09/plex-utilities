@@ -13,10 +13,9 @@
 *.lock
 .vs/
 *.user
-/cx.Utiities/obj/*
-/cx.Utiities/bin/*
-/cx.Mvc.Utiities/obj/*
-/cx.Mvc.Utiities/bin/*
-/cx.Mvc.Utilities/bin/Debug
-/cx.Mvc.Utilities/obj/Debug
+/cx.Utilities/obj/*
+/cx.Utilities/bin/*
+/cx.Mvc.Utilities/bin/*
+/cx.Mvc.Utilities/obj/*
 /packages
+*.nupkg
