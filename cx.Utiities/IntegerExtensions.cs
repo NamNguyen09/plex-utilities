@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace cx.Utiities
+namespace cx.Utilities
 {
     public static class IntegerExtentions
     {

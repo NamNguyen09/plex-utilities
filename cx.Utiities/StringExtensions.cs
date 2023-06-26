@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace cx.Utiities
+namespace cx.Utilities
 {
     public static class StringExtensions
     {

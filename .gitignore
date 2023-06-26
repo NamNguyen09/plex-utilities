@@ -15,3 +15,8 @@
 *.user
 /cx.Utiities/obj/*
 /cx.Utiities/bin/*
+/cx.Mvc.Utiities/obj/*
+/cx.Mvc.Utiities/bin/*
+/cx.Mvc.Utilities/bin/Debug
+/cx.Mvc.Utilities/obj/Debug
+/packages
