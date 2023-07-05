@@ -19,3 +19,5 @@
 /cx.Mvc.Utilities/obj/*
 /packages
 *.nupkg
+/cx.Utilities.Core/bin/*
+/cx.Utilities.Core/obj/*
