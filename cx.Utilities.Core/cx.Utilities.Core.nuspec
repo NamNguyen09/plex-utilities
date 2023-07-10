@@ -2,7 +2,7 @@
 <package >
 	<metadata>
 		<id>$id$</id>
-		<version>1.0.0</version>
+		<version>1.1.0</version>
 		<title>cxUtilitiesCore</title>
 		<authors>Tom Lee</authors>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -10,7 +10,7 @@
 		<!--<projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>-->
 		<!--<iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>-->
 		<description>String extensions, Interger extensions.</description>
-		<releaseNotes>Support NET6.</releaseNotes>
+		<releaseNotes>Add ToExpandEnvironmentVariable method</releaseNotes>
 		<copyright>Tom Lee 2023</copyright>
 		<tags>cxUtilities Net Core</tags>
 	</metadata>

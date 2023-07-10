@@ -14,5 +14,10 @@
                 || string.IsNullOrWhiteSpace(destination)) return false;
             return source.ToLower().Contains(destination.ToLower());
         }
+        public static string ToExpandEnvironmentVariable(this string variableName)
+        {
+            if (string.IsNullOrWhiteSpace(variableName)) return "";
+            return Environment.ExpandEnvironmentVariables(variableName);
+        }
     }
 }
